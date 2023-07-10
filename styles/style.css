@@ -103,3 +103,32 @@ header{
     text-align: center;
     font-size: 13px;
 }
+.section-2{
+    display: flex;
+    margin-top: 100px;
+    height: 70vh;
+    border-radius: 8px;
+    background: rgba(229, 84, 115, 0.05);
+    align-items: center;
+    justify-content: space-around;
+}
+.hot-deal{
+    text-align: center;
+}
+.hot-deal-tital{
+    color: #272727;
+    font-size: 27px;
+}
+span{
+    color: #E55473;
+}
+.hot-deal-description{
+    color: rgba(39, 39, 39, 0.60);
+    font-size: 15px;
+    margin-top: 20px;
+    margin-bottom: 25px;
+}
+.hot-deal-img{
+    height: 400px;
+    width: 300px;
+}
