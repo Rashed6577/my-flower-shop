@@ -159,14 +159,12 @@ span{
 .section-4{
     height: 380px;
     width: 1070px;
-    margin: auto;
+    margin:auto;
+    padding: 80px 0 0 0;
     background-image: url('../asset/Rectangle\ 9.png');
     background-repeat: no-repeat;
     background-size: 100%;
-    display:flex;
-    align-items: center;
     text-align: center;
-    justify-content: center;
 }
 .latest-deal-tital{
     color: #272727;
@@ -187,4 +185,27 @@ span{
     background-color: #fff;
     margin-right: 10px;
 }
+/* end main section */
+
+/* start footer section */
+.last-section{
+    height: 150px;
+    color: #fff;
+    background-color: #111010;
+    text-align: center;
+    padding: 80px;   
+}
+.footer-tital{
+    font-size: 40px;
+}
+.footer-descrription{
+    color: rgba(255, 255, 255, 0.90);
+    font-size: 18px;
+    margin: 25px;
+}
+.last-line{
+    color: rgba(255, 255, 255, 0.40);
+    font-size: 12px;
+}
+
 
