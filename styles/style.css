@@ -191,6 +191,51 @@ span{
     background-color: #fff;
     margin-right: 10px;
 }
+
+/* start bonus section */
+.section-5{
+    height: 600px;
+    margin-bottom: 120px;
+    background-color:rgba(229, 84, 115, 0.05);
+}
+.review-section{
+    color: #272727;
+    font-size: 30px;
+    text-align: center;
+    padding-top: 50px;
+    margin-bottom: 30px;
+}
+.cus-review{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
+.review{
+    text-align: center;
+}
+.review-img{
+    height: 280px;
+    width: 220px;
+}
+.review-tital{
+    color: #272727;
+    font-size: 18px;
+    text-align: center;
+    margin-top: 5px;
+}
+.review-description{
+    color: rgba(39, 39, 39, 0.60);
+    font-size: 15px;
+    text-align: center;
+    margin: 10px;
+}
+.cus-name{
+    color: #272727;
+    font-size: 15px;
+    text-align: center;
+}
+/* end bonus section */
+
 /* end main section */
 
 /* start footer section */
