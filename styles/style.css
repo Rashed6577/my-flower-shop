@@ -60,21 +60,27 @@ header{
     gap: 25px;
 }
 .flower-img{
-    height: 350px;
-    width: 220px;
-    padding: 80px 60px 0 60px;
     border-radius: 300px 300px 0 0;
     margin-top: 50px;
     margin-bottom: 30px;
 }
 #pink{
     background: rgba(167, 33, 98, 0.15);
+    height: 300px;
+    width: 230px;
+    padding: 80px 60px 0 60px;
 }
 #mixed{
     background: rgba(5, 151, 160, 0.15);
+    height: 250px;
+    width: 250px;
+    padding: 90px 40px 40px 40px;
 }
 #yellow{
     background-color: rgba(71, 125, 17, 0.15);
+    height: 350px;
+    width: 220px;
+    padding: 30px 60px 0 60px;
 }
 .fig-title{
     color: #272727;
